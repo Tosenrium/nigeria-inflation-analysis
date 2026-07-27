@@ -1,7 +1,3 @@
-# 🇳🇬 Nigeria Inflation Analysis
-
-# 🇳🇬 Nigeria Inflation Analysis
-
 ```text
 =========================================================
         🇳🇬 NIGERIA INFLATION ANALYSIS
