@@ -1,3 +1,50 @@
+# 🇳🇬 Nigeria Inflation Analysis
+
+# 🇳🇬 Nigeria Inflation Analysis
+
+```text
+=========================================================
+        🇳🇬 NIGERIA INFLATION ANALYSIS
+Data Science | Machine Learning | Economic Intelligence
+=========================================================
+```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+> Turning economic data into actionable insights through data science and machine learning.
+
+# nigeria-inflation-
+Turning raw economic data into actionable insights. This project analyzes Nigeria's inflation trends using Python, Pandas, and data visualization to uncover patterns, tell the story behind the numbers, and showcase practical data science skills through a real-world analytical workflow.
+---
+
+## 📖 Overview
+
+Nigeria has experienced significant fluctuations in inflation over the years, affecting purchasing power, investment decisions, and economic stability.
+
+This project explores historical inflation data for Nigeria using Python and modern data analysis techniques to identify patterns, trends, and insights that can support economic understanding and decision-making.
+
+The project demonstrates the complete data analysis workflow—from raw data preprocessing to visualization, interpretation, and documentation—following industry best practices.
+
+This repository serves as the first project in my Applied Data Science portfolio.
+
+---
+
+# 🎯 Project Objectives
+
+- Analyze Nigeria's historical inflation trends.
+- Clean and prepare raw economic data.
+- Perform Exploratory Data Analysis (EDA).
+- Visualize inflation patterns over time.
+- Generate meaningful economic insights.
+- Export cleaned datasets for reuse.
+- Demonstrate a professional end-to-end data science workflow.
+
+---
+
 # ⚙️ Requirements
 
 Before running this project, ensure you have:
@@ -25,35 +72,7 @@ Install all dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
-
-# nigeria-inflation-
-Turning raw economic data into actionable insights. This project analyzes Nigeria's inflation trends using Python, Pandas, and data visualization to uncover patterns, tell the story behind the numbers, and showcase practical data science skills through a real-world analytical workflow.
 ```
-
-## 📖 Overview
-
-Nigeria has experienced significant fluctuations in inflation over the years, affecting purchasing power, investment decisions, and economic stability.
-
-This project explores historical inflation data for Nigeria using Python and modern data analysis techniques to identify patterns, trends, and insights that can support economic understanding and decision-making.
-
-The project demonstrates the complete data analysis workflow—from raw data preprocessing to visualization, interpretation, and documentation—following industry best practices.
-
-This repository serves as the first project in my Applied Data Science portfolio.
-
----
-
-# 🎯 Project Objectives
-
-- Analyze Nigeria's historical inflation trends.
-- Clean and prepare raw economic data.
-- Perform Exploratory Data Analysis (EDA).
-- Visualize inflation patterns over time.
-- Generate meaningful economic insights.
-- Export cleaned datasets for reuse.
-- Demonstrate a professional end-to-end data science workflow.
-
----
 
 # 🛠️ Technologies Used
 
