@@ -11,7 +11,7 @@ Data Science | Machine Learning | Economic Intelligence
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
 
-> Turning economic data into actionable insights through data science and machine learning.
+Turning Nigeria's historical inflation data into actionable economic insights using Python, data visualization, and exploratory data analysis.
 
 # nigeria-inflation-
 Turning raw economic data into actionable insights. This project analyzes Nigeria's inflation trends using Python, Pandas, and data visualization to uncover patterns, tell the story behind the numbers, and showcase practical data science skills through a real-world analytical workflow.
