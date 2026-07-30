@@ -1,9 +1,6 @@
-```text
-=========================================================
-        🇳🇬 NIGERIA INFLATION ANALYSIS
-Data Science | Machine Learning | Economic Intelligence
-=========================================================
-```
+<p align="center">
+  <img src="./assets/banner.png" alt="Nigeria Inflation Analysis Banner" width="100%">
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
